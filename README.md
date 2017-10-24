@@ -1,4 +1,3 @@
 # HOGEHOGE
 
-こんにちは
-
+Hello
